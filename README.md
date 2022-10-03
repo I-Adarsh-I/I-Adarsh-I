@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Adarsh
-- 👀 I’m interested in Front-end development
+ # 👋 Hi, I’m _Adarsh_
+- 🔦 I’m interested in Front-end development
 - 🌱 I’m learning UI/UX designing
 - 🧍🏾🧍🏾 I’m looking to collaborate on open source project and community
-- 📫 Reach me at
-     https://twitter.com/darsh_singh0_0
+- 📫 Reach me at  [@darsh_singh0_0](https://twitter.com/darsh_singh0_0)
+
+# About me
+
+An independent front-end developer 🖥️ with knowledge and experience in HTML,
+CSS , JavaScript, ReactJS, blending the art of design with skill 💪 of programming
+to deliver an immersive and engaging user experience through efficient web
+development.
+My 🔑 interests are developing responsive websites, writing efficient codes,
+problem solving, UI/UX designing.
+

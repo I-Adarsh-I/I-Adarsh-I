@@ -13,3 +13,21 @@ development.
 My 🔑 interests are developing responsive websites, writing efficient codes,
 problem solving, UI/UX designing.
 
+### currently studying in P.E.S College of engineering, Mandya, Karnataka
+```geojson
+"geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+```
+
+
+

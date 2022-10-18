@@ -1,6 +1,6 @@
  # <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi, I’m _Adarsh_ 
  
-<img align="right" height ="300px" width="400px" alt = "loading img..." src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" height ="300px" width="400px" alt = "loading img..." src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
  
 - 🔦 I’m interested in Front-end development

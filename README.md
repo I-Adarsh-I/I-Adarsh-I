@@ -1,18 +1,17 @@
- # <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi, I’m _Adarsh_ 
-<!--  <img width="800" height="450" src=""C:\Users\Windows10\Desktop\github_cover..gif"" allowfullscreen> -->
- 
-<img align="right" height ="300px" width="400px" alt = "loading img..." style = "margin-left: 2x;" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+ <h1 align="center">Adarsh Singh</h1><br>
+ <img width="1000" height="250" src="github_cover..gif" allowfullscreen>
 
  
 - 🔦 I’m interested in Front-end development
 - 🌱 I’m learning UI/UX designing
-- 🧍🏾🧍🏾 I’m looking to collaborate on open source project and community
+- 🧍🏾🧍🏾Looking to collaborate on open source project and community
 - 📫 Reach me at:  
  > Twitter 👇
  - [@darsh_singh0_0](https://twitter.com/darsh_singh0_0) 
  > Linkedin 👇
  - [Adarsh-Singh](https://www.linkedin.com/in/adarsh-singh-17092b244/)
 # About me
+<img align="right" height ="200px" width="300px" alt = "loading img..." style = "margin-left: 2x;" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 An independent front-end developer 🖥️ with knowledge and experience in HTML,
 CSS , JavaScript, ReactJS, blending the art of design with skill 💪 of programming

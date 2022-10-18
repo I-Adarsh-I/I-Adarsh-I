@@ -1,7 +1,7 @@
  # <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi, I’m _Adarsh_ 
 <!--  <img width="800" height="450" src=""C:\Users\Windows10\Desktop\github_cover..gif"" allowfullscreen> -->
  
-<img align="right" height ="300px" width="400px" alt = "loading img..." src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" height ="300px" width="400px" alt = "loading img..." style = "margin-left: 2x;" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
  
 - 🔦 I’m interested in Front-end development

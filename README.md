@@ -5,11 +5,15 @@
 - 🔦 I’m interested in Front-end development
 - 🌱 I’m learning UI/UX designing
 - 🧍🏾🧍🏾Looking to collaborate on open source project and community
-- 📫 Reach me at:  
- > Twitter 👇
- - [@darsh_singh0_0](https://twitter.com/darsh_singh0_0) 
- > Linkedin 👇
- - [Adarsh-Singh](https://www.linkedin.com/in/adarsh-singh-17092b244/)
+##
+<h3 align="left">Connect with me:</h3>
+<h3 align="center">
+<a href="https://twitter.com/darsh_singh0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AK_Gautam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarsh-singh-17092b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AK_Gautam" height="30" width="40" /></a>
+</h3>
+
+
+
 # About me
 <img align="right" height ="200px" width="300px" alt = "loading img..." style = "margin-left: 2x;" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
@@ -21,7 +25,7 @@ My 🔑 interests are developing responsive websites, writing efficient codes,
 problem solving, UI/UX designing.
 #### currently studying in [P.E.S College of engineering](https://www.pescemandya.org/), Mandya, Karnataka.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img  align ="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 

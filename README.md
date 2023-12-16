@@ -20,8 +20,7 @@
 An independent front-end developer 🖥️ with knowledge and experience in HTML,
 CSS , JavaScript, ReactJS, blending the art of design with skill 💪 of programming
 to deliver an immersive and engaging user experience through efficient web
-development.
-My 🔑 interests are #developing responsive websites, writing efficient codes,
+development. My 🔑 interests are developing responsive websites, writing efficient codes,
 problem solving, UI/UX designing.
 
 ## <img  align ="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
